@@ -17,3 +17,12 @@ The folder "sine" contains the results of the hyperparameter searches on the qua
 
 The folder "plots" contains the plots that were created with the notebooks "plots.ipynb" and "extrapolate.ipynb".
 
+
+## Packages used
+
+pyRAPL 0.2.3.1
+reservoirpy 0.3.8
+
+pyRAPL needs a special access. After installation, write
+$ sudo chmod -R a+r /sys/class/powercap/intel-rapl 
+in the terminal
