@@ -5,7 +5,7 @@ Notebooks are annotated.
 
 The relevant hyperparameters to reproduce our results can be found in the appendix of our pdf document.
 
-The quantum reservoir can be found in the notebook "QRCvsCRC.ipnb" and is the main body of work.
+The quantum reservoir can be found in the notebook "QRCvsCRC.ipynb" and is the main body of work.
 
 The notebook "plots.ipynb" is used to create the hyperparameter comparison plots in our pdf document. 
 
