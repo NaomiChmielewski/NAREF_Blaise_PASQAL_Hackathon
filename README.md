@@ -1,6 +1,8 @@
 # pasqal_hackathon_official
 ## Github repository with all relevant notebooks and plots for the hackathon 2023
 
+Notebooks are annotated.
+
 The relevant hyperparameters to reproduce our results can be found in the appendix of our pdf document.
 
 The quantum reservoir can be found in the notebook "QRCvsCRC.ipnb" and is the main body of work.
