@@ -11,9 +11,11 @@ The notebook "plots.ipynb" is used to create the hyperparameter comparison plots
 
 The notebook "extrapolate.ipynb" is used to create the extrapolation plots in our pdf document.
 
-The notebook "CRCvsRNN.ipynb" is used to compare performance an energy consumption between a classical reservoir and an RNN. It is an old notebook without annotations but can be used to refer to some of our claims in the pdf document.7
+The notebook "CRCvsRNN.ipynb" is used to compare performance an energy consumption between a classical reservoir and an RNN. It is an old notebook without annotations but can be used to refer to some of our claims in the pdf document.
 
 The notebook "Energy_Consumption_Analysis.ipynb" is used to compare the energy consumption of our quantum algorithm to an RNN on Fresnel and 500 vs. a basic GPU server and the Jolio-Curie Rome.
+
+The file "BP_hackathon_energy_benchmark_ratios_NAREF.xlsx" contains the filled out excel for the CO2 emissions of our method and comparable classical methods on GPU/HPC.
 
 The folder "sine" contains the results of the hyperparameter searches on the quantum reservoir. Contrary to the name of the folder and files, the files contain the results for both sine and mackey glass.
 
