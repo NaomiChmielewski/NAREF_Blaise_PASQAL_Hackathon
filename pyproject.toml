@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "naref"
+version = "0.0.3"
+authors = [
+  { name="Ulysse Rémond", email="contact@uremond.net"},
+  { name="Naomi Chmielewski", email="naomi.chmielewski@gmail.com"},
+  { name="Léo Monbroussou", email="leo.monbroussou@gmail.com"},
+]
+description = "A quantum & classical reservoir handler for Temporal Series Prediction"
+readme = "README.md"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: BSD License",
+    "Operating System :: OS Independent",
+]
+requires-python = ' >= 3.9'
+dependencies = [
+  'matplotlib >= 3.6.2',
+  'numpy >= 1.22.4',
+  'pandas == 1.5.3',
+  'pulser >= 0.15.0',
+  'qutip >=  4.7.3',
+  'reservoirpy >= 0.3.9.post1',
+  'scikit-learn >= 0.0.post11'
+]
+
+[project.urls]
+"Homepage" = "https://github.com/NaomiChmielewski/NAREF_Blaise_PASQAL_Hackathon"
+"Bug Tracker" = "https://github.com/NaomiChmielewski/NAREF_Blaise_PASQAL_Hackathon/issues"

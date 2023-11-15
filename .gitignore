@@ -6,6 +6,7 @@ output/*
 *.vsconfig
 *.meta
 *.csv#
+src/example.py
 
 
 # Byte-compiled / optimized / DLL files

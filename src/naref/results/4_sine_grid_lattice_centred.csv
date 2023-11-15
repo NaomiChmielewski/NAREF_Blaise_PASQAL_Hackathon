@@ -1,0 +1,4 @@
+input_type,train_len,test_len,inp_duration,N_samples,sample_len,reset_rate,nb_atoms,geometry,atom_distance,train_mae,test_mae
+sine,242,22,1024,1000,8,0,4,grid_lattice_centred,15,0.13443192119961703,0.07932041343115927
+sine,242,22,1024,1000,8,0,4,grid_lattice_centred,20,0.13873011502164012,0.08101247895911506
+sine,392,22,1024,1000,8,0,4,grid_lattice_centred,15,0.13443192119961703,0.07932041343115927
